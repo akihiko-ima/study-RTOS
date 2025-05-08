@@ -1,0 +1,8 @@
+# dir
+.settings/
+.vscode/
+Debug/
+
+# file
+.cproject
+.project
